@@ -4,7 +4,7 @@
     <span style="font-size: 40px; font-weight: bold;">Hello, I'm Thinuka Rambukwella!</span>
   </p>
 
-##I'm an aspiring UI/UX Designer
+## I'm an aspiring UI/UX Designer
 
 ### 🚀 Languages and Tools I Use
 
