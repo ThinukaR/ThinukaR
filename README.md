@@ -5,7 +5,7 @@
   </p>
 </div>
 
-<p align="right" style="font-size: 25px; font-weight: bold;">
+<p align="left" style="font-size: 25px; font-weight: bold;">
   I'm an aspiring UI/UX Designer
 </p>
 
