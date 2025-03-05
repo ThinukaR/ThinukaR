@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-  <span style="font-size: 40px; font-weight: bold;">Hello, I'm Thinuka Rambukwella!</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align: middle;">
+  <span style="font-size: 40px; font-weight: bold;"> Hello, I'm Thinuka Rambukwella!</span>
 </p>
 
 <p align="center" style="font-size: 25px; font-weight: bold;">
@@ -8,6 +8,7 @@
 </p>
 
 ### 🚀 Languages and Tools I Use
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>
