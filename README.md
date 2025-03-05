@@ -1,23 +1,10 @@
 ## Hello,  I'm Thinuka Rambukwella 🐳
-I'm an aspiring UI/UX designer passionate about creating seamless experiences.  
-    🚀 Love working with Figma, JavaScript, and CSS!  
-    🎨 Exploring creative designs & always learning.
+I'm an aspiring UI/UX designer. I'm passionate about a lot of things including Godzilla. 
 </br>
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h2>Hello, I'm Thinuka Rambukwella 🐳</h2>
-    <p>I'm an aspiring UI/UX designer passionate about creating seamless experiences.  
-    🚀 Love working with Figma, JavaScript, and CSS!  
-    🎨 Exploring creative designs & always learning.</p>
-  </div>
-  <div>
-    <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNjbW8wYmZqYW5xMDc5M213ZHdnM2wxbHJ2Z2JyYzJ5bjljd24zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif width="400"/>
-  </div>
-</div>
 
 <p align="left">
   <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNjbW8wYmZqYW5xMDc5M213ZHdnM2wxbHJ2Z2JyYzJ5bjljd24zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif
-       alt="Godzilla GIF" width="500"/>
+       alt="Godzilla GIF" width="400"/>
 </p>
 
 ### 🚀 Languages and Tools I Use
