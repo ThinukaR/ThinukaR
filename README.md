@@ -1,11 +1,6 @@
 ## Hello,  I'm Thinuka Rambukwella 🐳
 **I'm an aspiring UI/UX designer**
 
-<p align="left">
-  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBpM2ZjM3B2Z2lyMXJ0dGN0NHV6Ym5jMGZ2aWYwY2VhdDI1ZXlvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l19ipdY2pjK3d8Omtz/giphy.gif alt="Godzilla GIF" />
-</p>
-
-
 ### 🚀 Languages and Tools I Use
 
 
@@ -20,6 +15,13 @@
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
 </p>
+
+<p align="left">
+  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBpM2ZjM3B2Z2lyMXJ0dGN0NHV6Ym5jMGZ2aWYwY2VhdDI1ZXlvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l19ipdY2pjK3d8Omtz/giphy.gif alt="Godzilla GIF" />
+</p>
+
+
+
 
 ---
 
