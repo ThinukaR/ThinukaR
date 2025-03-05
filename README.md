@@ -6,7 +6,7 @@ I enjoy coding , working on personal projects and exploring algorithms. Currentl
        alt="Godzilla GIF" width="400"/>
 </p>
 
-### Languages and Tools I Use
+### Languages and Tools 
 
 
 <p align="left">
