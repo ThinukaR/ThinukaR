@@ -1,5 +1,7 @@
 ## Hello,  I'm Thinuka Rambukwella 🐳
-### I'm an aspiring UI/UX designer
+I'm an aspiring UI/UX designer passionate about creating seamless experiences.  
+    🚀 Love working with Figma, JavaScript, and CSS!  
+    🎨 Exploring creative designs & always learning.
 </br>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
