@@ -9,7 +9,7 @@
     🎨 Exploring creative designs & always learning.</p>
   </div>
   <div>
-    <img src="https://your-image-url.png" width="400"/>
+    <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNjbW8wYmZqYW5xMDc5M213ZHdnM2wxbHJ2Z2JyYzJ5bjljd24zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif width="400"/>
   </div>
 </div>
 
