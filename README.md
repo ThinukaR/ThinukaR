@@ -1,9 +1,8 @@
 ## Hello,  I'm Thinuka Rambukwella 🐳
 **A passionate UI/UX Designer, with an interest in designing seamless user experiences**
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYm5Xq3hLXhYBa/giphy.gif" alt="Godzilla Roaring" width="600"/>
+  <img src="https://media.giphy.com/media/Kzqg3jxNU5YxHyAyzi/giphy.gif" alt="Godzilla GIF" width="600"/>
 </p>
 
 
