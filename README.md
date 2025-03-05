@@ -2,7 +2,7 @@
 **I'm an aspiring UI/UX designer**
 
 <p align="left">
-  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXB6cmk1Zmo2eDFyOGQ5b3cwM3pqbDlyMzI5aXliajJ3bWU4enI2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif alt="Godzilla GIF"  height ="300" width="600"/>
+  <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBpM2ZjM3B2Z2lyMXJ0dGN0NHV6Ym5jMGZ2aWYwY2VhdDI1ZXlvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l19ipdY2pjK3d8Omtz/giphy.gif alt="Godzilla GIF"  height ="300" width="600"/>
 </p>
 
 
