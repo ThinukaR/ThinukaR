@@ -1,13 +1,12 @@
 <p align="center">
-  <span style="display: inline-flex; align-items: center; gap: 10px;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-    <span style="font-size: 40px; font-weight: bold;">Hello, I'm Thinuka Rambukwella!</span>
-  </span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align: middle;">
+  <span style="font-size: 40px; font-weight: bold;">Hello, I'm Thinuka Rambukwella!</span>
 </p>
 
-<p align="center" style="font-size: 25px; font-weight: bold; margin-top: -10px;">
-  I'm an aspiring UI/UX Designer
+<p align="center">
+  <span style="display: inline-block; font-size: 25px; font-weight: bold;">I'm an aspiring UI/UX Designer</span>
 </p>
+
 
 ### 🚀 Languages and Tools I Use
 
