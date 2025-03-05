@@ -1,10 +1,13 @@
-<p align="center">
+<div align="center">
+  <p>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align: middle;"/>
-    ### I'm Thinuka Rambukwella 
-</p>
- 
+    <span style="font-size: 40px; font-weight: bold;">Hello, I'm Thinuka Rambukwella!</span>
+  </p>
+</div>
 
-### I'm an aspiring UI/UX Designer
+<p align="right" style="font-size: 25px; font-weight: bold;">
+  I'm an aspiring UI/UX Designer
+</p>
 
 ### 🚀 Languages and Tools I Use
 
