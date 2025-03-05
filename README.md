@@ -1,6 +1,6 @@
 ## Hello,  I'm Thinuka Rambukwella 🐳
 ### Software Engineering Student | Aspiring UI/UX Developer 
-I enjoy coding and working on personal projects. Currently interested in creating discord bots and learning Ruby. 
+I enjoy coding , working on personal projects and exploring algorithms. Currently interested in creating discord bots and learning Ruby. I'm very passionate about the monsterverse franchice, specifically the godzilla movies. 
 <p align="left">
   <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNjbW8wYmZqYW5xMDc5M213ZHdnM2wxbHJ2Z2JyYzJ5bjljd24zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif
        alt="Godzilla GIF" width="400"/>
