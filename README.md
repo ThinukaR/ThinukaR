@@ -1,15 +1,14 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b>Hello, I'm Thinuka Rambukwella!</b>
-</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  Hello, I'm Thinuka Rambukwella!
+</h1>
 
-<p align="center">
-  <b>I'm an aspiring UI/UX Designer</b>
-</p>
+<h2 align="center">I'm an aspiring UI/UX Designer</h2>
 
 ---
 
 ### 🚀 Languages and Tools I Use
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
