@@ -1,5 +1,5 @@
 ## Hello,  I'm Thinuka Rambukwella 🐳
-I'm an aspiring UI/UX designer. I'm passionate about a lot of things including Godzilla. 
+I'm a software engineering student | Aspiring UI/UX Developer 
 </br>
 
 <p align="left">
