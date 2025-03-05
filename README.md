@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align: middle;"/>
-    <span style="font-size: 60px; font-weight: bold;">Hello, I'm Thinuka Rambukwella!</span>
+    <span style="font-size: 120px; font-weight: bold;">Hello, I'm Thinuka Rambukwella!</span>
   </p>
 </div>
 
