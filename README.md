@@ -1,8 +1,6 @@
-## Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif";> , I'm Thinuka Rambukwella
- 
-<p align="left" style="font-size: 25px; font-weight: bold;">
-  I'm an aspiring UI/UX Designer
-</p>
+## Hello,  I'm Thinuka Rambukwella 🐳
+**A passionate UI/UX Designer, with an interest in designing seamless user experiences**
+
 
 ### 🚀 Languages and Tools I Use
 
