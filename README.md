@@ -2,6 +2,11 @@
 **A passionate UI/UX Designer, with an interest in designing seamless user experiences**
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYm5Xq3hLXhYBa/giphy.gif" alt="Godzilla Roaring" width="600"/>
+</p>
+
+
 ### 🚀 Languages and Tools I Use
 
 
