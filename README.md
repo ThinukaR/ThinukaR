@@ -1,5 +1,5 @@
 ## Hello,  I'm Thinuka Rambukwella 🐳
-### I'm a software engineering student | Aspiring UI/UX Developer 
+### Software Engineering Student | Aspiring UI/UX Developer 
 <p align="left">
   <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNjbW8wYmZqYW5xMDc5M213ZHdnM2wxbHJ2Z2JyYzJ5bjljd24zcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif
        alt="Godzilla GIF" width="400"/>
